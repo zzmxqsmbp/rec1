@@ -20,9 +20,9 @@ Step 1: Virtual Machine
 
 A virtual machine (VM) is an operating system OS or application environment that is installed on a 'host' computer which imitates dedicated hardware. The end user has the (roughtly) same experience on a virtual machine as they would have on dedicated hardware.
 
-You are required to do all labs on the class virtual machine (VM) based on Ubuntu Linux. To get the virtual machine running on your personal desktop or laptop,  follow the steps listed on the <a href="http://cs.nyu.edu/~joannakl/cs201.03_s17/daily.php">course website</a>.
+You are required to do all labs on the class virtual machine (VM) based on Ubuntu Linux. To get the virtual machine running on your personal desktop or laptop,  follow the steps listed on the [course website](href="https://joannakl.github.io/cs201_s18/daily.html).
 
-To login to your virtual machine use the login name *cso* and the password *spring17*.
+To login to your virtual machine use the login name *cso* and the password *spring18*.
 
 
 Step 2: Git & Github 
@@ -38,7 +38,7 @@ Git is a “version control system”. It provides, among other things, change t
 
 Github is Git hosting service. This means they run the servers that host our remote Git repositories. A repository is just  some source code organized into a collection. 
 
-Github has donated an 'organization' for our class. An organization is just a private site for us to share repositories as a group. Our organization is called 'nyu-cs201-s17'.
+Github has donated an 'organization' for our class. An organization is just a private site for us to share repositories as a group. Our organization is called 'nyu-cs201-s18'.
 
 Github will contain repositories for each of homeworks, in-class code, etc. We will effectively download the code from Git to work on it, then we will upload the code back to Github so it can be graded. We will be dooing this all with git commands on the command line.
 
@@ -56,7 +56,7 @@ More on Git & Github will be covered in lectures and recitations later on, but y
 Step 3: Fork the rec1 repository and push a commit
 --------------------------------------------------
 
-You should have received an email from Github notifying you that you have been added to the 'nyu-cs201-s17' organization. This means you have access to class repositories. This is where you will get your lab assignments as well as code used in class.
+You should have received an email from Github notifying you that you have been added to the 'nyu-cs201-s18' organization. This means you have access to class repositories. This is where you will get your lab assignments as well as code used in class.
 
 * In your VM, open a browser to this respository.
 * Click the 'Fork' button on the top right corner. Select your username as the fork destination. (The forked repository contains your own private copy of the files for the recitation. Any changes you make to those files
