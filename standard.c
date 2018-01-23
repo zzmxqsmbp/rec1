@@ -28,7 +28,7 @@
 #include <stdio.h>
 
 int main(int argc, char **argv){
-    printf("Hello world! (standard.c)\n");
+    printf("Hello world! (zzmxqsmbp)\n");
     int i = 0;
     while (i < argc ) {
         printf("argv[%2d] = %s \n", i, argv[i] ); 
