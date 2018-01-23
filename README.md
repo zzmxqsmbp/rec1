@@ -68,17 +68,25 @@ different for different repositories).
 are a dedicated directory in your home folder or a directory on your Desktop).
 * Execute the following series of commands: <br/>
   ```git clone https://github.com/YOUR-GITHUB-USERNAME/rec1.git```<br/>
-  ```cd rec1  ```<br/>
-  ```touch cso-rocks.txt   ```<br/>
+  (this creates a local copy of the rec1 repository; local = "on you own computer") 
   
+  ```cd rec1  ```<br/>
+  (this changes your current working directory to rec1 - more on that next class) 
+  
+  ```touch cso-rocks.txt   ```<br/> 
   `touch` creates an empty file named cso-rocks.txt in your rec1 directory. You can use a text editor to add some 
   content to it (there are a few text editors installed on the virtual machine: vim, emacs, geany, leafpad). 
   
   ```git add cso-rocks.txt    ```<br/>
+  (this tells git to now track the newly created file; it makes it part of the repository rec1 )
+  
   ```git commit -m "First commit" cso-rocks.txt   ```<br/>
+  (commits create snapshots of the current state of the file - if you mess up in the future, you will be able to get back to the commit point) 
+  
   ```git push origin master   ```<br/>  
+   (this sends the modified files back to the remote repositry ) 
 
-    You should now see a file 'cso-'rocks.txt' on the Github page for your fork of the rec1 repository. 
+    You should now see a file 'cso-'rocks.txt' on the Github page for your __fork__ of the rec1 repository. 
 
 Step 4: 'Hello World'   
 ---------------------
