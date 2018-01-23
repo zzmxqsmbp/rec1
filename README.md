@@ -81,7 +81,7 @@ are a dedicated directory in your home folder or a directory on your Desktop).
   (this tells git to now track the newly created file; it makes it part of the repository rec1 )
   
   ```git commit -m "First commit" cso-rocks.txt   ```<br/>
-  (commits create snapshots of the current state of the file - if you mess up in the future, you will be able to get back to the commit point) 
+  (commits create snapshots of the current state of the file - if you mess up in the future, you will be able to get back to the commit point; the string after -m is the message, it tells you (and other users) what the changes made by this commit were ) 
   
   ```git push origin master   ```<br/>  
    (this sends the modified files back to the remote repositry ) 
