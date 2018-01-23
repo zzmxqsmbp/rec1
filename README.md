@@ -20,7 +20,7 @@ Step 1: Virtual Machine
 
 A virtual machine (VM) is an operating system OS or application environment that is installed on a 'host' computer which imitates dedicated hardware. The end user has the (roughtly) same experience on a virtual machine as they would have on dedicated hardware.
 
-You are required to do all labs on the class virtual machine (VM) based on Ubuntu Linux. To get the virtual machine running on your personal desktop or laptop,  follow the steps listed on the [course website](href="https://joannakl.github.io/cs201_s18/daily.html).
+You are required to do all labs on the class virtual machine (VM) based on Ubuntu Linux. To get the virtual machine running on your personal desktop or laptop,  follow the steps listed on the [course website](https://joannakl.github.io/cs201_s18/daily.html).
 
 To login to your virtual machine use the login name *cso* and the password *spring18*.
 
